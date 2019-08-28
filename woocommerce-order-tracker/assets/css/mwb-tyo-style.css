@@ -1,0 +1,118 @@
+#mwb_mwb_create_box {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-top: 10px;
+    padding: 10px;
+}
+#mwb_mwb_create_box h3 {
+    font-weight: normal;
+    margin: 0;
+    padding: 5px 0 15px;
+    text-transform: uppercase;
+}
+#mwb_mwb_create_box table tr td input {
+    min-height: 35px;
+    width: 100%;
+}
+.mwb_mwb_rows_wrap h3 {
+    display: inline-block;
+    font-weight: normal;
+    margin: 0;
+}
+div#mwb_mwb_create_box,
+img#mwb_mwb_send_loading {
+    display: none;
+}
+.widefat .column-order_status mark.dispatched:after {
+    background-size: 100% 100%;
+    color: #999999;
+    content: "";
+    height: 17px !important;
+    width: 17px !important;
+    background-image: url("../images/dispatch.png");
+    
+    
+}
+.widefat .column-order_status mark.dispatched:after {
+    font-family: WooCommerce;
+    font-variant: normal;
+    font-weight: 400;
+    height: 100%;
+    left: 0;
+    line-height: 1;
+    margin: 0;
+    position: absolute;
+    text-align: center;
+    text-indent: 0;
+    text-transform: none;
+    top: 0;
+    width: 100%;
+}
+
+.widefat .column-order_status mark.shipped:after {
+    background-size: 100% 100%;
+    color: #999999;
+    content: "";
+    height: 20px !important;
+    width: 20px !important;
+    background-image: url("../images/shipped.png");
+    
+    
+}
+.widefat .column-order_status mark.shipped:after {
+    font-family: WooCommerce;
+    font-variant: normal;
+    font-weight: 400;
+    height: 100%;
+    left: 0;
+    line-height: 1;
+    margin: 0;
+    position: absolute;
+    text-align: center;
+    text-indent: 0;
+    text-transform: none;
+    top: 0;
+    width: 100%;
+}
+
+
+.widefat .column-order_status mark.packed:after {
+    background-size: 100% 100%;
+    color: #999999;
+    content: "";
+    height: 17px !important;
+    width: 17px !important;
+    background-image: url("../images/packed.png");
+    
+    
+}
+.widefat .column-order_status mark.packed:after {
+    font-family: WooCommerce;
+    font-variant: normal;
+    font-weight: 400;
+    height: 100%;
+    left: 0;
+    line-height: 1;
+    margin: 0;
+    position: absolute;
+    text-align: center;
+    text-indent: 0;
+    text-transform: none;
+    top: 0;
+    width: 100%;
+}
+input.role_box_open {
+    background-color: #D3394C!important;
+}
+.button-primary.woocommerce-save-button.role_box_open{
+    border: 0 none !important;
+    box-shadow: none;
+    font-size: 12px;
+    font-weight: normal;
+    padding: 0 15px;
+    text-shadow: none;
+    text-transform: uppercase;
+}
+
+
+

@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Order Tracker 1.0.0\n"
+"POT-Creation-Date: 2017-04-21 18:44+0530\n"
+"PO-Revision-Date: 2017-04-21 18:45+0530\n"
+"Last-Translator: \n"
+"Language-Team: MakeWebBetter <webmaster@makewebbetter.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woocommerce-order-tracker.php:99 admin/class-admin-setting.php:86
+#: includes/woocommerce-tyo-class.php:219
+#: includes/woocommerce-tyo-class.php:226
+msgid "Track Order"
+msgstr ""
+
+#: woocommerce-order-tracker.php:114
+#: template/mwb-guest-track-order-page.php:37 admin/class-admin-setting.php:41
+#: admin/class-admin-setting.php:170
+msgid "Track Your Order"
+msgstr ""
+
+#: woocommerce-order-tracker.php:174
+msgid "OrderId or Email is Invalid"
+msgstr ""
+
+#: woocommerce-order-tracker.php:210
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-order-tracker.php:232
+msgid ""
+"Woocommerce is not activated, Please activate Woocommerce first to install "
+"Track Your Order."
+msgstr ""
+
+#: template/mwb-guest-track-order-page.php:46
+msgid "ERROR"
+msgstr ""
+
+#: template/mwb-guest-track-order-page.php:54
+msgid "Enter Order Id"
+msgstr ""
+
+#: template/mwb-guest-track-order-page.php:59
+msgid "Enter Order Email"
+msgstr ""
+
+#: template/mwb-guest-track-order-page.php:64
+#: includes/woocommerce-tyo-class.php:475
+msgid "TRACK ORDER"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:54
+msgid "Please choose an Order."
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:54
+msgid "Click Here"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:68
+#: template/mwb-track-order-myaccount-page.php:84
+msgid "This order #"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:68
+#: template/mwb-track-order-myaccount-page.php:84
+msgid "is not associated to your account."
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:68
+#: template/mwb-track-order-myaccount-page.php:84
+msgid "Click Here "
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:149
+msgid "Order Details"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:154
+msgid "Order Id:"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:155
+msgid "("
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:158
+msgid "Order Date:"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:162
+msgid "Amount Paid:"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:183
+msgid "Product Details"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:184
+msgid "Quantity"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:185
+msgid "Sub Total"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:210
+#: template/mwb-track-order-myaccount-page.php:251
+msgid "Placeholder"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:273
+msgid "Total"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:319
+msgid "APPROVAL"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:320
+msgid "PROCESSING"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:321
+msgid "SHIPPING"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:323
+msgid "DELIVERY"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:333
+msgid "Your Order is Successfully Placed"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:342
+#: template/mwb-track-order-myaccount-page.php:353
+#: template/mwb-track-order-myaccount-page.php:393
+#: template/mwb-track-order-myaccount-page.php:404
+#: template/mwb-track-order-myaccount-page.php:464
+#: template/mwb-track-order-myaccount-page.php:475
+msgid "Your Order status is "
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:367
+#: template/mwb-track-order-myaccount-page.php:419
+#: template/mwb-track-order-myaccount-page.php:489
+msgid "Your Order is Cancelled"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:410
+#: template/mwb-track-order-myaccount-page.php:481
+msgid "Your Order is Sent back"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:433
+msgid "Your Order Is Processed"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:443
+#: template/mwb-track-order-myaccount-page.php:509
+msgid "Your Order is cancelled"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:522
+msgid "Order Cancelled"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:522
+msgid "Not Delivered"
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:523
+msgid "on "
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:525
+#: template/mwb-track-order-myaccount-page.php:526
+msgid "by "
+msgstr ""
+
+#: template/mwb-track-order-myaccount-page.php:538
+msgid "Tracking Request can't be send. "
+msgstr ""
+
+#: admin/class-admin-setting.php:87
+msgid "Build Custom Order Status"
+msgstr ""
+
+#: admin/class-admin-setting.php:88
+msgid "Common Setting"
+msgstr ""
+
+#: admin/class-admin-setting.php:101 includes/woocommerce-tyo-class.php:112
+#: includes/woocommerce-tyo-class.php:305
+#: includes/woocommerce-tyo-class.php:310
+msgid "Order Dispatched"
+msgstr ""
+
+#: admin/class-admin-setting.php:101 includes/woocommerce-tyo-class.php:112
+#: includes/woocommerce-tyo-class.php:296
+#: includes/woocommerce-tyo-class.php:301
+msgid "Order Packed"
+msgstr ""
+
+#: admin/class-admin-setting.php:101 includes/woocommerce-tyo-class.php:112
+#: includes/woocommerce-tyo-class.php:314
+#: includes/woocommerce-tyo-class.php:319
+msgid "Order Shipped"
+msgstr ""
+
+#: admin/class-admin-setting.php:118
+msgid "Basic Settings"
+msgstr ""
+
+#: admin/class-admin-setting.php:122
+msgid "Main Wrapper Class of Theme"
+msgstr ""
+
+#: admin/class-admin-setting.php:123
+msgid "Write the main wrapper class of your theme if some design issue arises."
+msgstr ""
+
+#: admin/class-admin-setting.php:128
+msgid "Child Wrapper Class of Theme"
+msgstr ""
+
+#: admin/class-admin-setting.php:129
+msgid ""
+"Write the child wrapper class of your theme if some design issue arises."
+msgstr ""
+
+#: admin/class-admin-setting.php:134
+msgid "Tracking Order Page Custom CSS"
+msgstr ""
+
+#: admin/class-admin-setting.php:135
+msgid "Write the custom css for Tracking Order page."
+msgstr ""
+
+#: admin/class-admin-setting.php:144
+msgid "Text for "
+msgstr ""
+
+#: admin/class-admin-setting.php:144
+msgid " status on tracking page"
+msgstr ""
+
+#: admin/class-admin-setting.php:145
+msgid "Write the text for "
+msgstr ""
+
+#: admin/class-admin-setting.php:145
+msgid " to be shown on frontend during order tracking."
+msgstr ""
+
+#: admin/class-admin-setting.php:174 admin/class-admin-setting.php:181
+msgid "Enable"
+msgstr ""
+
+#: admin/class-admin-setting.php:175
+msgid "Enable Track Your Order Feature"
+msgstr ""
+
+#: admin/class-admin-setting.php:182
+msgid "Enable use of Custom Order Status"
+msgstr ""
+
+#: admin/class-admin-setting.php:188
+msgid "Custom Order Statuses"
+msgstr ""
+
+#: admin/class-admin-setting.php:189
+msgid "Select new Order Status to be created for enhanced order tracking"
+msgstr ""
+
+#: admin/class-admin-setting.php:199
+msgid "hidden_status"
+msgstr ""
+
+#: admin/class-admin-setting.php:200 admin/class-admin-setting.php:211
+msgid ""
+"Select Order Status to be shown in the Approval section while order tracking"
+msgstr ""
+
+#: admin/class-admin-setting.php:210
+msgid "Approval"
+msgstr ""
+
+#: admin/class-admin-setting.php:221
+msgid "Processing"
+msgstr ""
+
+#: admin/class-admin-setting.php:222
+msgid ""
+"Select Order Status to be shown in the Processing section while order "
+"tracking"
+msgstr ""
+
+#: admin/class-admin-setting.php:232
+msgid "Shipping"
+msgstr ""
+
+#: admin/class-admin-setting.php:233
+msgid ""
+"Select Order Status to be shown in the Shipping section while order tracking"
+msgstr ""
+
+#: admin/custom-order-status.php:16 admin/custom-order-status.php:17
+msgid "Custom Order Creation"
+msgstr ""
+
+#: admin/custom-order-status.php:54
+msgid "No any Custom Order Created."
+msgstr ""
+
+#: admin/custom-order-status.php:99 admin/custom-order-status.php:135
+msgid "Delete"
+msgstr ""
+
+#: admin/custom-order-status.php:113
+msgid "Custom Order Name"
+msgstr ""
+
+#: admin/custom-order-status.php:186 admin/custom-order-status.php:187
+msgid "Create Custom Order Status"
+msgstr ""
+
+#: admin/custom-order-status.php:195
+msgid "Create New Custom Order Status"
+msgstr ""
+
+#: admin/custom-order-status.php:199
+msgid "Custom Order Status Name"
+msgstr ""
+
+#: admin/custom-order-status.php:202
+msgid "Type Custom Order Status Name Here"
+msgstr ""
+
+#: admin/custom-order-status.php:207
+msgid "Create Order Status"
+msgstr ""
+
+#: includes/woocommerce-tyo-class.php:127
+msgid "Order Status successfully saved."
+msgstr ""
+
+#: includes/woocommerce-tyo-class.php:128
+msgid "Please enter a Valid Status Name."
+msgstr ""
+
+#: includes/woocommerce-tyo-class.php:129
+msgid "Unable to save Order Status."
+msgstr ""
+
+#: includes/woocommerce-tyo-class.php:130
+msgid "Please enter the status name ."
+msgstr ""
+
+#: includes/woocommerce-tyo-class.php:360
+msgid "Enter Estimated Delivery Date"
+msgstr ""
+
+#: includes/woocommerce-tyo-class.php:390
+msgid "Delivery Date"
+msgstr ""
+
+#: includes/woocommerce-tyo-class.php:391
+msgid "Enter Delivery Date"
+msgstr ""
+
+#: includes/woocommerce-tyo-class.php:392
+msgid "Delivery Time"
+msgstr ""
+
+#: includes/woocommerce-tyo-class.php:393
+msgid "Enter Delivery time"
+msgstr ""
